@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nadeem-ds
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Md Nadeem Anwar
+- 👀 I’m interested in ... React development , React native development , Machine Learning, Data Science
+- 🌱 I’m currently learning ... Data sceince
+- 💞️ I’m looking to collaborate on ... yes 
+- 📫 How to reach me ...   https://www.linkedin.com/in/mdnadeemanwards2023/  
 
 <!---
 nadeem-ds/nadeem-ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
